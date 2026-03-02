@@ -7,7 +7,7 @@ A simple Chrome extension that lets you highlight any currency text on a webpage
 - Highlight text like "$50" or "100 euros" and get instant conversions
 - Supports 24 currencies using exchangerate-api
 - Light and dark theme
-- Keyboard shortcut: `Alt+Shift+C`
+- Keyboard shortcut: `Ctrl+Shift+C` - "you need to configure this within your browser extensions page"
 
 ## Setup
 
